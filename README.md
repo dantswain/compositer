@@ -8,5 +8,5 @@ Not very user friendly at present, but could be made to be pretty flexible.  Com
 
 Example image:
 
-![Example](sample.jpg)
+![Example](https://github.com/dantswain/compositer/raw/master/sample.jpg)
 
